@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997908163169",
+    "project_id": "agendamente-5485f",
+    "storage_bucket": "agendamente-5485f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997908163169:android:7941e70940ca24359b1820",
+        "android_client_info": {
+          "package_name": "com.example.agendamente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQb-quv96tXR5g9K5lYdVJX7yt2y73sOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
