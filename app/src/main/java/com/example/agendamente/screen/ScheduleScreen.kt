@@ -41,7 +41,7 @@ fun ScheduleScreen(
     viewModel: FireAuthViewModel,
     activityScheduleId: String,
     navigator: NavHostController,
-    userType: UserType // Adicionado
+    userType: UserType
 ) {
     val schedules by viewModel.schedules.collectAsState()
 
