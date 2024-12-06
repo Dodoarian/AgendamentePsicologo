@@ -84,7 +84,7 @@ fun ScheduleScreen(
                                         }
                                         Toast.makeText(context, message, Toast.LENGTH_SHORT).show()
                                     }
-                                } else null // Desativa o checkbox para não pacientes
+                                } else null
                             )
                             Spacer(modifier = Modifier.width(8.dp))
                             Column {
